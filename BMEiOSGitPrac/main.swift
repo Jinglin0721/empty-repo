@@ -10,3 +10,6 @@ import Foundation
 
 print("Hello, World!")
 
+var text: String = "Xcode Workflow"
+
+print(text)
